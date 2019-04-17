@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-color:black;
+	color:white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p { 
+	text-align:justify;
+}
+
+.link { color: red; }
+.link:visited { color: orange; }
+.link:active { color: white; }

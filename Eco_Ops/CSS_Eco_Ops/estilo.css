@@ -4,15 +4,34 @@ body {
 	color:white;
 }
 
-h1 {
+ h1 {
 	text-align: center;
 	color: white;
+	font-size:50px;
 }
 
 p { 
 	text-align:justify;
+	font-size:22px;
 }
 
-.link { color: red; }
-.link:visited { color: orange; }
-.link:active { color: white; }
+.link { 
+
+}
+
+.link:visited { 
+
+}
+
+.link:active { 
+
+}
+
+.link, .link:visited, .link:active, a {
+	font-size:22px;
+	color: white;
+}
+
+#A1,#A2,#A3,#A4,#A5,#A6,#A7 {
+	font-size:40px;
+}

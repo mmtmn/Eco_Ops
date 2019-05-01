@@ -1,37 +1,6 @@
 body {
 	text-align: center;
-	background-color:black;
-	color:white;
+	background-color:#FCE96E;
+	color:black;
 }
-
- h1 {
-	text-align: center;
-	color: white;
-	font-size:50px;
-}
-
-p { 
-	text-align:justify;
-	font-size:22px;
-}
-
-.link { 
-
-}
-
-.link:visited { 
-
-}
-
-.link:active { 
-
-}
-
-.link, .link:visited, .link:active, a {
-	font-size:22px;
-	color: white;
-}
-
-#A1,#A2,#A3,#A4,#A5,#A6,#A7 {
-	font-size:40px;
-}
+	

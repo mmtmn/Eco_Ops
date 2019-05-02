@@ -7,6 +7,8 @@ body {
 
 #texto_1 {
 	text-align: left;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 
 #tabela_1 {
@@ -16,6 +18,7 @@ body {
 	margin-right: auto;
 	border-collapse: separate;
 	border-spacing: 20px;
+	width: 100%
 }
 
 

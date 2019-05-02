@@ -56,12 +56,13 @@ p{
   max-width: 60%;
 }
 
+
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: green;
-  color: white;
-  text-align: center;
+	clear: both;
+	position: relative;
+	height: 40px;
+	margin-top: -40px;
+	background-color: green;
+	color: white;
+	text-align: center
 }

@@ -3,15 +3,28 @@ body {
 	background-color:#BAEBB7;
 	color:black;
 	margin: 0;
+	font-family: 'Poppins', sans-serif;
 }
 
 #texto_1 {
-	text-align: left;
 	margin-left: 30px;
 	margin-right: 30px;
+	text-align: justify;
+	font-size: 16px;
+	width: 70%;
 }
 
 #tabela_1 {
+	width: 100%;
+	text-align:center;
+	line-height: 29px;
+}
+
+#tabela_1 td{
+	font-weight: 100;
+}
+
+#tabela_2 {
 	text-align: center;
 	border-style: solid;
 	margin-left: auto;
@@ -20,7 +33,6 @@ body {
 	border-spacing: 20px;
 	width: 100%
 }
-
 
 a,
 a:active{
@@ -64,5 +76,11 @@ p{
 	margin-top: -40px;
 	background-color: green;
 	color: white;
-	text-align: center
+	text-align: center;
+	font-weight: 100;
+	font-size: 12px;
+}
+
+form {
+	text-align:center;
 }

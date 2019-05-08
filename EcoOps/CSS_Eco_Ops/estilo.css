@@ -34,6 +34,10 @@ body {
 	width: 100%
 }
 
+#link {
+	color: blue;
+}
+
 a,
 a:active{
   color: black;

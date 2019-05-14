@@ -1,0 +1,114 @@
+body {
+	background-color:rgb(240, 240, 240);
+	text-align: center;
+	color:black;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+#tabela_1 {
+	width: 100%;
+	text-align:center;
+	line-height: 29px;
+		
+}
+
+#tabela_1 td{
+	font-weight: 100;
+}
+
+#tabela_2 {
+	text-align: center;
+	border-style: solid;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: separate;
+	border-spacing: 20px;
+	width: 100%
+}
+
+#link {
+	color: blue;
+}
+
+a,
+a:active{
+	color: black;
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color:whitesmoke;
+	display:inline-block;
+	width: 100%
+}
+
+li{
+ 	float:left;
+	margin:0;
+	margin-left:80px;
+	padding:-5px 5px;
+}
+
+li a{
+	display: block;
+ 	text-align: center;
+	padding: 15px 25px;
+	font-family:'Times New Roman', Times, serif;
+	font-size:18px;
+}
+
+li a:hover{
+  	background-color:	#6B8E23;
+	transition-duration:150ms;
+	transition-timing-function: linear;
+	opacity:0.9;
+	color:white;
+	size:100%;
+}
+
+p{
+  	text-align: justify;
+ 	max-width: 60%;
+}
+
+
+.header {
+
+	float:top;
+	background-color:black;
+	height:60px;
+	width:100%;
+}
+
+.logo {
+	position:relative;
+	float:left;
+	margin-left:100px;
+}
+
+form {
+	text-align:center;
+}
+
+.pesquisa{
+	float:right;
+	text-align:center;
+	margin-right:62px;
+	margin-top:10px;
+
+}
+.pesquisa input{
+	height:32px;
+	width:240px;
+
+}
+
+.btndownload{
+	width:30%;
+	height:30%;
+	padding:20px 20px
+}
